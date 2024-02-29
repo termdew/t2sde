@@ -1,0 +1,26 @@
+[I] Small, free, embeddable Java source interpreter with object scripting language features
+
+[T] the blackdown java versions are - contrary to sun's 'official' versions -
+[T] availible for linux on a variety of platforms.
+
+[T] BeanShell is a small, free, embeddable Java source interpreter with object 
+[T] scripting language features, written in Java. BeanShell dynamically executes 
+[T] standard Java syntax and extends it with common scripting conveniences such 
+[T] as loose types, commands, and method closures like those in Perl and JavaScript.
+
+[U] https://github.com/beanshell/beanshell
+
+[A] Pat Niemeyer
+[M] The T2 Project <t2@t2-project.org>
+
+[C] extra/development
+
+[L] APL
+[S] Stable
+[V] 2.1.1
+[P] O -----5---9 150.000
+
+[O] . $base/package/*/*/java-conf.in ant
+
+[D] 272ef025728b70258c0343dfb1b564f0e1b0d99ecb82a1922a9ec277 beanshell-2.1.1.tar.gz https://github.com/beanshell/beanshell/archive/refs/tags/2.1.1/
+
